@@ -131,8 +131,8 @@
 				<artifactId>azure-webapp-maven-plugin</artifactId>
 				<configuration>
 					<subscriptionId>30e43f2d-2420-4d21-95ba-67978bbae45e</subscriptionId>
-					<resourceGroup>finalapp</resourceGroup>
-					<appName>invenotryomfinal</appName>
+					<resourceGroup>Om</resourceGroup>
+					<appName>OMAPP</appName>
 					<pricingTier>F1</pricingTier>
 					<region>eastus</region>
 					<runtime>
