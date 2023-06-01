@@ -137,7 +137,7 @@
 					<region>eastus</region>
 					<runtime>
 						<os>Windows</os>
-						<webContainer>Tomcat 10.0</webContainer>
+						<webContainer>Java SE</webContainer>
 						<javaVersion>Java 17</javaVersion>
 					</runtime>
 					<deployment>
